@@ -1,1 +1,1 @@
-# Ezan-Vakti
+# ezan-vakti-privacy
